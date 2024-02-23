@@ -1,0 +1,92 @@
+html{
+	background-color: #fafaee;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+	width: 90%;
+	max-width: 600px;
+}
+
+.book{
+	margin: 0;
+}
+
+.book-desc{
+	padding: 20px;
+	font-size: 16px;
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1.5em;
+	vertical-align: top;
+	max-width: 300px;
+}
+
+.header{
+	background-color: #6e8b51;
+}
+
+.header-content{
+	max-width: 800px;
+	padding: 5px 5px;
+	margin: 0 auto;
+}
+
+.content{
+	max-width: 800px;
+	padding: 20px 20px;
+	margin: 0 auto;
+}
+
+.header-img{
+	vertical-align: middle;
+	width: 100px;
+}
+
+.gallery{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: white;
+	margin: 0 auto;
+	width: 95%;
+	max-width: 650px;
+}
+
+p{
+	font-size: 16px;
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1.5em;
+}
+
+a{
+	color: #6e8b51;
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+table{
+	margin: auto;
+}
+
+h1{
+	font-size: 36px;
+	font-family: "Josefin Slab", serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+	text-align: left;
+	color: #fafaee;
+}
+
+h2{
+	font-size: 20px;
+	font-family: "Josefin Slab", serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
+}
